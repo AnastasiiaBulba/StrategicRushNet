@@ -1,0 +1,168 @@
+{
+  "hero": {
+    "title": "Quiz Guess the Country",
+    "description": "Test your world knowledge with this exciting geography quiz! Guess countries by their shapes and outlines in this addictive shape-recognition adventure. Challenge yourself with different difficulty levels and see how many countries you can identify correctly.",
+    "buttonText": "Play Now"
+  },
+  "features": [
+    {
+      "icon": "🌍",
+      "title": "World Map Quiz",
+      "description": "Test your knowledge of world geography by identifying countries from their unique shapes and outlines on interactive maps."
+    },
+    {
+      "icon": "🎯",
+      "title": "Multiple Choice",
+      "description": "Choose from multiple answer options to identify countries, making the game accessible for all skill levels."
+    },
+    {
+      "icon": "⚡",
+      "title": "Speed Challenge",
+      "description": "Race against the clock to test your reflexes and geography knowledge under time pressure."
+    },
+    {
+      "icon": "🏆",
+      "title": "Score System",
+      "description": "Earn points for correct answers and climb the leaderboards to compete with players worldwide."
+    },
+    {
+      "icon": "📚",
+      "title": "Educational Fun",
+      "description": "Learn world geography while having fun - perfect for students, teachers, and geography enthusiasts."
+    },
+    {
+      "icon": "🎮",
+      "title": "Mobile Friendly",
+      "description": "Play anywhere on any device with responsive design optimized for mobile and desktop gaming."
+    }
+  ],
+  "howToPlay": [
+    {
+      "title": "Basic Gameplay",
+      "description": "Learn the fundamental mechanics of the geography quiz game.",
+      "steps": [
+        "Look at the country outline or shape displayed",
+        "Read the question carefully about which country it represents",
+        "Choose the correct answer from the multiple choice options",
+        "Click or tap your selection to submit your answer"
+      ]
+    },
+    {
+      "title": "Scoring System",
+      "description": "Understand how to earn points and improve your score.",
+      "steps": [
+        "Earn points for each correct country identification",
+        "Faster answers give bonus points",
+        "Consecutive correct answers provide multipliers",
+        "Try to maintain streaks for higher scores"
+      ]
+    },
+    {
+      "title": "Advanced Strategies",
+      "description": "Master advanced techniques to become a geography expert.",
+      "steps": [
+        "Study world maps to recognize country shapes",
+        "Learn distinctive features of different regions",
+        "Practice with different difficulty levels",
+        "Focus on challenging regions to improve skills"
+      ]
+    }
+  ],
+  "track": {
+    "features": [
+      {
+        "icon": "🌍",
+        "text": "World Regions - Test your knowledge across all continents with diverse country shapes"
+      },
+      {
+        "icon": "🏔️",
+        "text": "Europe & Asia - Challenge yourself with complex country outlines and borders"
+      },
+      {
+        "icon": "🌎",
+        "text": "Americas - Explore North and South American countries with unique geographical features"
+      },
+      {
+        "icon": "🌍",
+        "text": "Africa & Oceania - Master the distinctive shapes of African and Pacific nations"
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "name": "Alex Johnson",
+      "text": "Amazing educational game! I've learned so much about world geography while having fun. The country shapes are challenging but addictive. Perfect for both kids and adults!"
+    },
+    {
+      "name": "Sarah Chen",
+      "text": "Great way to test your geography knowledge! The multiple choice format makes it accessible, and the time pressure adds excitement. I've improved my world map skills significantly."
+    },
+    {
+      "name": "Mike Rodriguez",
+      "text": "Best geography quiz game I've played! The graphics are colorful and engaging, and the difficulty levels are well-balanced. Highly recommend for anyone interested in world geography."
+    },
+    {
+      "name": "Emma Wilson",
+      "text": "Perfect for quick learning sessions. The game is intuitive and the scoring system keeps me motivated. Love how it combines education with entertainment!"
+    },
+    {
+      "name": "David Kim",
+      "text": "Incredible attention to detail in the country outlines. The game has helped me learn about countries I never knew existed. Great for expanding world knowledge."
+    },
+    {
+      "name": "Lisa Thompson",
+      "text": "Addictive gameplay with smooth performance. The mobile version works perfectly and the leaderboards make it competitive. Excellent educational tool!"
+    }
+  ],
+  "gameUpdates": [
+    {
+      "title": "New World Regions Added",
+      "description": "Explore expanded world regions with more countries and challenging geography questions. Test your knowledge across all continents!",
+      "date": "February 15, 2025",
+      "fullContent": "We're excited to announce the addition of new world regions to Quiz Guess the Country! This major update introduces expanded coverage of all continents with more detailed country outlines and challenging questions. Players can now test their knowledge across diverse geographical regions including remote island nations, landlocked countries, and territories with unique shapes. The update also includes improved graphics for better country recognition and new difficulty levels to accommodate players of all skill levels. Whether you're a geography expert or just starting to learn about world maps, there's something for everyone in this comprehensive update.",
+      "image": "guiz_img/detal_new1.jpg"
+    },
+    {
+      "title": "Enhanced Mobile Experience",
+      "description": "Major improvements to mobile gameplay with better touch controls, responsive design, and optimized performance for all devices.",
+      "date": "April 10, 2025",
+      "fullContent": "This update focuses on delivering the best possible mobile gaming experience. We've completely redesigned the touch interface with larger, more responsive buttons and improved gesture controls. The game now loads faster on mobile devices and uses less battery power. We've also added haptic feedback for better user experience and implemented adaptive difficulty that adjusts based on your device's performance. The mobile version now includes all features available on desktop, including leaderboards, achievements, and detailed statistics. Players can seamlessly switch between devices while maintaining their progress.",
+      "image": "guiz_img/detal_new2.jpg"
+    },
+    {
+      "title": "Educational Mode Launch",
+      "description": "Introducing a new educational mode with detailed country information, learning tips, and progress tracking for students and teachers.",
+      "date": "February 28, 2025",
+      "fullContent": "We've launched a comprehensive educational mode designed specifically for learning environments! This new feature includes detailed information about each country including capital cities, population, languages, and cultural facts. Teachers can create custom quizzes for their students and track individual progress. The educational mode includes learning tips, historical context, and fun facts about each country. We've also added a practice mode where players can study country shapes without time pressure. This update makes Quiz Guess the Country an excellent tool for geography education in schools and for anyone wanting to expand their world knowledge.",
+      "image": "guiz_img/detal_new3.jpg"
+    }
+  ],
+  "trailDiaries": [
+    {
+      "title": "Behind the Scenes: Creating Accurate Country Outlines",
+      "description": "Discover how we develop precise country shapes and borders for the most accurate geography quiz experience.",
+      "date": "April 15, 2025",
+      "fullContent": "Creating accurate country outlines for Quiz Guess the Country involves meticulous research and careful design work. Our geography team starts by studying official maps and geographical data to ensure each country's shape is as accurate as possible. We work with cartographers and geography experts to verify border details, especially for countries with complex coastlines or disputed territories. The design process involves creating vector graphics that maintain clarity at different zoom levels while preserving the distinctive features that make each country recognizable. For small countries and island nations, we pay special attention to scale and proportion to ensure they're identifiable in the quiz format. The process for each country can take several days, including research, design, testing, and refinement based on player feedback.",
+      "image": "guiz_img/detal_new4.jpg"
+    },
+    {
+      "title": "Community Spotlight: Geography Champions",
+      "description": "Meet the top players who have mastered world geography and learn their strategies for success in Quiz Guess the Country.",
+      "date": "April 25, 2025",
+      "fullContent": "This month we're highlighting three exceptional players who have achieved remarkable success in our geography quiz. GeoMaster_2024 has achieved perfect scores on all world regions, demonstrating incredible knowledge of even the most obscure countries. MapExplorer has created comprehensive study guides that have helped thousands of players improve their geography skills. And WorldTraveler has set unbeatable speed records while maintaining accuracy. We interviewed each champion about their learning strategies, favorite regions to study, and tips for new players. Their insights have been invaluable in helping us understand what makes geography learning engaging and how we can continue to improve the educational value of our game.",
+      "image": "guiz_img/detal_new5.jpg"
+    },
+    {
+      "title": "Development Update: Future Educational Features",
+      "description": "Get a sneak peek at upcoming educational features and improvements planned for Quiz Guess the Country in the coming months.",
+      "date": "April 30, 2025",
+      "fullContent": "We're excited to share our development roadmap for the next six months! Q2 2024 will bring a comprehensive multiplayer system allowing players to compete against friends in real-time geography challenges. We're also working on a tournament system with seasonal competitions focused on different world regions. Q3 will introduce an advanced learning mode with detailed country profiles, historical context, and cultural information. The learning mode will include interactive maps, flag recognition, and language learning elements. We're also planning major visual upgrades including 3D globe integration, animated country transitions, and more detailed geographical features. Community feedback has been crucial in shaping these educational features, and we can't wait to see how students and geography enthusiasts respond to these new learning tools.",
+      "image": "guiz_img/detal_new6.jpg"
+    }
+  ],
+  "contact": {
+    "email": "contact@strategicrushnet.com",
+    "phone": "+61 333 984 567",
+    "address": "55 Queen Street, Brisbane QLD 4000, Australia"
+  }
+}
